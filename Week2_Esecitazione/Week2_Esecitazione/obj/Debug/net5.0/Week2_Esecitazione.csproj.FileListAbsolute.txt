@@ -1,0 +1,16 @@
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\bin\Debug\net5.0\Week2_Esecitazione.exe
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\bin\Debug\net5.0\Week2_Esecitazione.deps.json
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\bin\Debug\net5.0\Week2_Esecitazione.runtimeconfig.json
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\bin\Debug\net5.0\Week2_Esecitazione.runtimeconfig.dev.json
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\bin\Debug\net5.0\Week2_Esecitazione.dll
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\bin\Debug\net5.0\ref\Week2_Esecitazione.dll
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\bin\Debug\net5.0\Week2_Esecitazione.pdb
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\obj\Debug\net5.0\Week2_Esecitazione.csprojAssemblyReference.cache
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\obj\Debug\net5.0\Week2_Esecitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\obj\Debug\net5.0\Week2_Esecitazione.AssemblyInfoInputs.cache
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\obj\Debug\net5.0\Week2_Esecitazione.AssemblyInfo.cs
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\obj\Debug\net5.0\Week2_Esecitazione.csproj.CoreCompileInputs.cache
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\obj\Debug\net5.0\Week2_Esecitazione.dll
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\obj\Debug\net5.0\ref\Week2_Esecitazione.dll
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\obj\Debug\net5.0\Week2_Esecitazione.pdb
+C:\Users\eleonora.lombardo\Desktop\Prove\Week2_Esecitazione\Week2_Esecitazione\obj\Debug\net5.0\Week2_Esecitazione.genruntimeconfig.cache
